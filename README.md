@@ -7,6 +7,10 @@
 ## 🖇 서비스 배포 링크
 > https://pickrap.vercel.app
 
+### 작업 레포지토리 
+> 프론트엔드 레포지토리 : https://github.com/Kusitms-26th-Ohttention/pickRAP-FE.git
+
+> 백엔드 레포지토리 :https://github.com/Kusitms-26th-Ohttention/pickRAP-BE.git
 &nbsp;
 
 
